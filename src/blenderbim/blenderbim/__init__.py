@@ -81,7 +81,7 @@ def get_debug_info():
     }
 
 
-def format_debug_info(info: dict):
+def format_debug_info(info: dict): 
     last_actions = ""
     for action in info["last_actions"]:
         last_actions += f"\n# {action['type']}: {action['name']}"
