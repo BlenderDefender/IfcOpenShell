@@ -16,7 +16,7 @@
 # You should have received a copy of the GNU General Public License
 # along with BlenderBIM Add-on.  If not, see <http://www.gnu.org/licenses/>.
 
-import os
+import os 
 import bpy
 import bpy.utils.previews
 import importlib
